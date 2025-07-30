@@ -14,6 +14,6 @@
 
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,py,java,vscode,vite,tailwind,sqlite,react,postman,notion,npm,nodejs,mysql,idea,pycharm,github,git,figma,fastapi,django,blender,bash,arduino,ps)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,py,java,mysql,vscode,idea,pycharm,vite,sqlite,postman,notion,npm,nodejs,github,git,figma,fastapi,django,blender,bash,arduino,ps)](https://skillicons.dev)
   
 </div>
