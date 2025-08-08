@@ -1,9 +1,17 @@
 ## Olá, meu nome é ***ALYSON PEREIRA DOS SANTOS***
 
-<div align=center grid="2">
+<br>
+<br>
+<div align=center>
 
-  | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlysonG14&theme=algolia&utcOffset=8) 
-| :-: | :-: | :-: |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlysonG14&theme=algolia) |
+| :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlysonG14&theme=algolia) 
+| :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlysonG14&theme=algolia&utcOffset=8) |
+| :-: |
 
 </div>
 
