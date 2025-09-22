@@ -4,14 +4,12 @@
 <br>
 <div align=center>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlysonG14&theme=algolia) |
-| :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlysonG14&theme=algolia) 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlysonG14&theme=algolia) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlysonG14&theme=algolia&utcOffset=8)
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlysonG14&theme=algolia) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlysonG14&theme=algolia&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 | :-: | :-: |
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlysonG14&theme=algolia&utcOffset=8) |
-| :-: |
 
 </div>
 
