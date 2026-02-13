@@ -38,7 +38,7 @@
 
 <h1>Data Analytics</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=r,python)](https://skillicons.dev)
 
 <h1>Extra Skills: Mobile Development</h1>
 
