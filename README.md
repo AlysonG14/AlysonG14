@@ -18,15 +18,45 @@
 
 </div>
 
+<div align="start">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F70E&repeat=false&width=435&lines=Data+Analytics+Platform)](https://git.io/typing-svg)
+  <p>I'm using Python and R language to make dataframe and data visualization.</p>
+  <p><strong>I love working with:</strong></p>
+  
+  [![My Skills](https://skillicons.dev/icons?i=r,python)](https://skillicons.dev)
+</div>
+
+<table>
+<tr>
+<td width="70%">
+
+  <h2>🔭 I'm Working on </h2>
+  <p>• Projects from Posit Workbench and Positron. </p>
+  <p>• Learning about Data Frame. </p>
+  <p>• Learn how to use DataBot to facility your data. </p>
+
+  </td>
+
+<td width="30%" align="center">
+    <img width=38% 
+      src="https://media.trustradius.com/product-logos/DS/Wj/HDBAVEI8SFZ8.PNG">
+    <img width=38%
+      src="https://drmowinckels.io/blog/2024/positron/images/positron-logo.png">
+    
+</td>
+</tr>
+</table>
+
+
 <div align="center">
 
-<h1>My Skills:</h1>
+  <h1>My Skills:</h1>
 
 </div>
 
-<br>
-
-<div align="start">
+<br></br>
+<div align="left">
 
 <h1>Front End</h1>
 
@@ -36,11 +66,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,nodejs,django,fastapi,&perline=3)](https://skillicons.dev)
 
-<h1>Data Analytics</h1>
-
-[![My Skills](https://skillicons.dev/icons?i=r,python)](https://skillicons.dev)
-
-<h1>Extra Skills: Mobile Development</h1>
+<h1>Mobile Development</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=dart,flutter&perline=3)](https://skillicons.dev)
 
@@ -50,11 +76,9 @@
   
 </div>
 
-<div>
+<div align="left">
   
-<img src="https://imgur.com/XFwnrgW.png" width="350">
-
-</p>
+  <img src="https://imgur.com/XFwnrgW.png" width="350">
 
 </div>
 
