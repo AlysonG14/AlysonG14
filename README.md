@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=5086C1&textBg=false&descSize=0&descAlign=50&descAlignY=50&fontSize=0&animation=fadeIn&section=header&reversal=false">
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bf5d2c10-d2b6-401d-ac32-ea2d18a1644e" /><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=5086C1&textBg=false&descSize=0&descAlign=50&descAlignY=50&fontSize=0&animation=fadeIn&section=header&reversal=false">
 
 <div align="center">
 
@@ -32,9 +32,10 @@
 <td width="70%">
 
   <h2>🔭 I'm Working on </h2>
-  <p>• Projects from Posit Workbench and Positron. </p>
-  <p>• Learning about Data Frame. </p>
-  <p>• Learn how to use DataBot to facility your data. </p>
+    <p>• Projects from Posit Workbench and Positron.</p>
+    <p>• DataFrame concepts and manipulation.</p>
+    <p>• Databricks platform.</p>
+    <p>• How to use DataBot to facilitate data analysis and workflows.</p>
 
   </td>
 
