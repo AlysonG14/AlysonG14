@@ -49,7 +49,6 @@
 </tr>
 </table>
 
-<br></br>
 <div align="left">
 
 <h1>Front End</h1>
