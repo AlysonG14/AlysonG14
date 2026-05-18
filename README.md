@@ -49,13 +49,6 @@
 </tr>
 </table>
 
-
-<div align="center">
-
-  <h1>My Skills:</h1>
-
-</div>
-
 <br></br>
 <div align="left">
 
